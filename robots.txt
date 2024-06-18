@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://lj-guesthouse.com/sitemap.xml
